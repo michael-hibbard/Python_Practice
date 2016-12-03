@@ -24,7 +24,7 @@ print("The value of pi is:","{:.2f}".format(value))    # Formatting is kind of f
 # User input and indexing a matrix #
 # start by creating an empty array:
 scientistNamesArray = []
-# Tell the user the object of the game... if you can call it that...
+# Tell the user the object of the game... if you can call it that..
 print("How many scientists can you name?")
 print("If you can't think of another, enter \"0\"")     # Use \" if adding a quotes inside a string.
 # Initialize the scientistName:
